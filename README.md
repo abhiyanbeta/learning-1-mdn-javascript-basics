@@ -1,8 +1,18 @@
-# beginner-html-site-styled
-A simple one page website created to help complete beginners learn HTML basics, which in this repo has also been styled to help beginners learn CSS basics. The styling is explained over the course of [https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/CSS_basics](https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/CSS_basics).
+# JavaScript Basics - Mozilla Is Cool
 
-[Run the example live](http://mdn.github.io/beginner-html-site-styled/).
+Basics of JavaScript as per the tutorial on mdn web docs. 
 
+## Description
 
-#Source
-https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics#supercharging_our_example_website
+HTML and CSS practice. Clicking on the 'Change user' button prompts an input which uses JavaScript to change the heading element of the page. 
+
+## Getting Started
+
+View project live: https://abhiyanbeta.github.io/learning-1-mdn-javascript-basics/
+
+## License
+
+This project is licensed under the Creative Commons Zero v1.0 Universal License.
+
+## Acknowledgments
+* [Source](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
